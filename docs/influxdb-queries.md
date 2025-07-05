@@ -2,7 +2,7 @@
 
 This document shows example InfluxDB queries used in Grafana dashboards for Envflux data, along with screenshots of the graphs.
 
-<img src="images/grafana-dashboard.jpg" alt="Grafana Dashboard" width="20%">
+<img src="/examples/images/grafana-dashboard.jpg" alt="Grafana Dashboard" width="20%">
 
 ## Dashboards Overview
 
