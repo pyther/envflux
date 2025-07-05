@@ -127,6 +127,10 @@ Volume=/srv/influxdb/config:/etc/influxdb2:Z
 WantedBy=multi-user.target
 ```
 
+## InfluxDB Measurements
+
+Check out the [InfluxDB Measurements](docs/influxdb-measurements.md) document for detailed measurement information.
+
 ## Examples
 
-Check out the [InfluxDB Queries & Grafana Dashboard Examples](examples/influxdb-queries.md) document for detailed example queries and screenshots.
+Check out the [InfluxDB Queries & Grafana Dashboard Examples](docs/influxdb-queries.md) document for detailed example queries and screenshots.
