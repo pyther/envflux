@@ -1,0 +1,6 @@
+aiohttp
+pyyaml
+influxdb-client
+pyenphase
+platformdirs
+

@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ruff, black, or other linter/formatter caches
+.cache/
+ruff_cache/
+
+# Unit test / coverage results
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyright
+pyrightconfig.json
+
+# VSCode and other editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS files
+.DS_Store
+
+# Configuration / sensitive data (if present)
+config.yaml
+token.json
+
+# Builds
+build/
+dist/
+*.egg-info/
+
+# Log files
+*.log
+
+# Local backups
+*.bak
+*.swp
+*~
+
