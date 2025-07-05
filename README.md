@@ -126,3 +126,7 @@ Volume=/srv/influxdb/config:/etc/influxdb2:Z
 [Install]
 WantedBy=multi-user.target
 ```
+
+## Examples
+
+Check out the [InfluxDB Queries & Grafana Dashboard Examples](examples/influxdb-queries.md) document for detailed example queries and screenshots.

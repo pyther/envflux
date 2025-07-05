@@ -6,7 +6,7 @@ This document shows example InfluxDB queries used in Grafana dashboards for Envf
 
 ## Dashboards Overview
 
-- [Current Power - Stat](#current-power-stat)
+- [Current Power - Stat](#current-power)
 - [Energy Summary - Stat](#energy-summary)
 - [Power Flow - Time Series](#power-flow)
 - [Net Power - Time Series](#net-power)
